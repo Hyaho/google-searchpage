@@ -1,0 +1,147 @@
+img{
+	position: absolute;
+	display: inline-block;
+	height:44px;
+	width:120px;
+	margin-top: 16px;
+	margin-left: 5px;
+}
+
+form{
+	position: relative;
+	display: inline-block;
+	margin-top: 5px;
+	margin-left: 140px;
+}
+
+input{
+	height: 35px;
+	width: 632px;
+	font-size: 18px;
+}
+
+a img{
+	position: relative;
+	height: 23px;
+	width: 18px;
+	top: 5px;
+	left: -65px;
+}
+
+td{
+	background-color: gray;
+	height: 2px;
+	width: 2px;
+}
+
+table:hover td{
+	background-color: black;
+}
+
+table{
+	position: relative;
+	display: inline-block;
+	top: 5px;
+	right: 10px;
+}
+
+ul{
+	margin: 0;
+	margin-left: 100px;
+	margin-top: 15px;
+}
+
+li{
+	display: inline-block;
+	list-style-type: none;
+	padding: 10px;
+	border-bottom: 2px solid #eff1f4;
+
+}
+
+a{
+	text-decoration: none;
+	color: #979aa0;
+}
+
+li a:hover{
+	color:black;
+}
+
+p{
+	font-size: 15px;
+	margin-top: 0;
+	margin-bottom: 23px;
+}
+
+.isolated{
+	margin-left: 210px;
+}
+
+.linkup{
+	text-decoration: none;
+	font-size: 19px;
+	color: blue;
+}
+
+.linkup{
+	color:blue;
+}
+
+.linkup:hover{
+	text-decoration: underline;
+}
+
+.linkdown{
+	color: green;
+	margin: 0;
+}
+
+#header{
+	position: absolute;
+	width: 100%;
+	top: 0px;
+	left: 0px;
+	background-color: #eff1f4;
+}
+
+#sign{
+	display: inline-block;
+	background-color: #4285f4;
+	height: 30px;
+	width: 71px;
+	border-radius: 3px;
+	color: white;
+	line-height: 30px;
+	text-align: center;
+}
+
+#headerleft{
+	position: absolute;
+	display: inline-block;
+	top: 5px;
+	right: 0px;
+	margin: 20px;
+}
+
+#all{
+	font-weight: bold;
+	color: blue;
+	border-bottom: 2px solid blue;
+}
+
+#bod{
+	position: relative;
+	width: 580px;
+	top: 120px;
+	left: 150px;
+	color: #979aa0;
+}
+
+#footer{
+	position: absolute;
+	background-color: #eff1f4;
+	width: 100%;
+	left:0;
+	bottom: -70px;
+}

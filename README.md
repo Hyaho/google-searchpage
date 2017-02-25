@@ -1,0 +1,1 @@
+This is a Google similar searchpage created with HTML and CSS for practice purposes
